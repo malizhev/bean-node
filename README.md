@@ -1,4 +1,8 @@
-# Bean
+# Bean-node
+
+**Forked from [fat/bean](https://github.com/fat/bean).**  
+**Added possibility to require bean in node.js environment (handy in isomorphic apps)**
+
 Bean is a small, fast, cross-platform, framework-agnostic event manager designed for desktop, mobile, and touch-based browsers. In its simplest form - it works like this:
 
 ```js
