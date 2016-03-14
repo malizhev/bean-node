@@ -1,7 +1,7 @@
 (function (name, context, definition) {
   
   // Fallback for node
-  if (typeof window === "undefined") {
+  if (typeof window === 'undefined') {
     return null;
   }
   
